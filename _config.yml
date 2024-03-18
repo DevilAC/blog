@@ -67,8 +67,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Jekyll Doc"
-      icon: "fab fa-dochub"
+      icon: "fas fa-book"
       url: "https://jekyllrb.com/docs/"
+    - label: "Minimal Mistakes"
+      icon: "fas fa-book"
+      url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
 
 
 footer:
