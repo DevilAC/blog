@@ -66,12 +66,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Jekyll Doc"
+    - label: "Jekyll"
       icon: "fas fa-book"
       url: "https://jekyllrb.com/docs/"
     - label: "Minimal Mistakes"
       icon: "fas fa-book"
       url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+    - label: "GitHub Pages"
+      icon: "fas fa-pager"
+      url: "https://docs.github.com/zh/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"
 
 
 footer:
